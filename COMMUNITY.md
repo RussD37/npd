@@ -7,19 +7,20 @@ NPD is supported by a dedicated team of individuals fulfilling various roles to 
 
 | Role   | Name    | Affiliation    |
 | :----- | :------ | :------------- |
-| Product/ Project Lead | Julie Sossamon | DSAC |
-| Product Manager | Julia McCafferty | DSAC |
-| Interim Design Lead | Sunil Manchikanti | DSAC |
 | Data/ Community Lead and Sr. Advisor | Fred Trotter | DSAC |
+| Product/ Project Lead | Russell Dumas | DSAC |
+| Product Manager | Julia McCafferty | DSAC |
+| Design Lead | Vacant |  |
+| Consulting Engineer/ Architect | Patrick Fiscina | USDS @ DSAC 
 | Engineering/ Architecture Lead | Ross Miller | DSAC |
 | DevSecOps/ Release Lead and ISSO | Blaine Price | DSAC |
-| Engineer | Sarah Popelka | DSAC |
-| Engineer | Dan Turner | USDS |
-| Engineer | Demetrius Kellum | USDS |
-| Engineer | Trevor Specht | USDS |
-| Engineer | Sachin Panayil | USDC @ DSAC |
+| Engineer | Demetrius Kellum | USDS @ DSAC |
+| Engineer | Trevor Specht | USDS @ DSAC |
+| Engineer | Nash Redwood | USDS @ DSAC |
+| Engineer | Dan Turner | USDS @ DSAC |
+| Engineer | Roshan Gajurel | USDS | 
 | Engineer | Isaac Milarsky | USDC @ DSAC |
-| Data Scientist | Keith Otis | DSAC |
+| Consulting Data Scientist | Keith Otis | DSAC |
 
 See [CODEOWNERS.md](.github/CODEOWNERS.md) for a list of those responsible for the code and documentation in this repository.
 
